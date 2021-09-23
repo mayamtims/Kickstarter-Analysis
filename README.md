@@ -1,12 +1,15 @@
 # An Analysis of Kickstarter Campaigns 
-### This project includes analyzing and visualizing kickstarter campaign data to determine what factors make a theatre campaign successful
+## Overview of Project
+### The purpose of this analysis is to help Louise, a prospective playwright, determine how to launch a successful kickstarter campaign for a play that she wants funded. She hopes to raise $10,000 during the course of the campaign and wants to know what factors lead to successful campaigns based off of data from other kickstarter campaigns. 
 
+## Analysis and Challenges
+### The two main factors that were analyzed to determine what makes a successful theatre kickstarter were the launch date and monetary goals of different campaigns. To perform this analysis, two different pivot tables were created to isolate these variables and display campaign outcomes (successful, failed and canceled) by campaign launch dates and goals. From these pivot tables two line graphs were created to visualize and interpret the results, which are attached below. Though no challenges were encountered during the process of this analysis, some potential challenges include 
 
-Findings include:
-- Theatre campaigns launched in May-June are the most successful at meeting their monetary goal
-- Theatre campaigns are more successful when they don't set their goal too high 
-- Theatre campaigns are a successful type of campgain 
+![Outcomes based on launch date](https://github.com/mayamtims/Kickstarter-Analysis/blob/main/Theatre_Outcomes_vs_Launch_Date.png)
+![Outcomes based on parent category](https://github.com/mayamtims/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png) 
 
-![Outcomes based on launch date](https://github.com/mayamtims/Kickstarter-Analysis/blob/main/Outcomes%20based%20on%20launch%20date.png)![Outcomes based on parent category](https://github.com/mayamtims/Kickstarter-Analysis/blob/609adea73d561b4b6f309e7d7b857d809e26be85/Outcomes%20graph.png) 
-
-Reccomendations: It is reccomended that Louise lower her $10,000 campaign goal to an amount closer to $5,000, the mean goal of successful theatre kickstarter campaigns. It is also reccomended that she launch her campaign in May or June.
+## Results
+- A conclusion that can be made about outcomes of theatre campaigns based on launch date is that more successful campaigns are launched between May-June, so it is reccomended that Louise launch her kickstarter then. Another conclusion is that the number of failed theatre campaigns remain relatively consistant throughout the year, so it cannot be assumed that the launch date of a kickstarter contributes to why a campaign would fail. 
+- A conclusion that can be made about outcomes of campaigns based on monetary goal is that a campaign is more likely to be successful if the goal is set low, at around $1000-$5000. It is suggested that Louise lower her campaign goal to $5000 to increase the likelihood of success for her campaign. 
+- Limitations of the kickstarter dataset include
+- Other possible tables/graphs that could be created and interpreted to help Louise determine what factors contribute to a successful campaign are outcomes based on 
