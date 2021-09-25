@@ -11,5 +11,5 @@
 ## Results
 - A conclusion that can be made about outcomes of theatre campaigns based on launch date is that more successful campaigns are launched between May-June, so it is reccomended that Louise launch her kickstarter then. Another conclusion is that the number of failed theatre campaigns remain relatively consistant throughout the year, so it cannot be assumed that the launch date of a kickstarter contributes to why a campaign would fail. 
 - A conclusion that can be made about outcomes of campaigns based on monetary goal is that a campaign is more likely to be successful if the goal is set low, at around $1000-$5000. It is suggested that Louise lower her campaign goal to $5000 to increase the likelihood of success for her campaign. 
-- Limitations of the kickstarter dataset include
+- Limitations of the kickstarter dataset include im not sure
 - Other possible tables/graphs that could be created and interpreted to help Louise are outcomes based on duration of campaign, to see how long she should run her campaign for, and outcomes based on number of backers, to see how many people she needs to encourage to fund her play. 
